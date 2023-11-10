@@ -16,7 +16,7 @@ printOdds(50);
 // Exercise 2 Section
 console.log("EXERCISE 2:\n==========\n");
 
-function checkAge(UserName, age){
+function checkAge(userName, age){
     const aboveSixteen = `Congrats ${userName}, you can drive!`;
     const belowSixteen = `Sorry ${userName}, but you need to wait until you are 16.`;
 
